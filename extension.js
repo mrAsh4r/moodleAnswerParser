@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Parse questions and answers on Moodle pages
-// @author       Your Name
+// @author       Roman
 // @match        https://skpdo-surgut.ru/mod/quiz/attempt.php*
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
