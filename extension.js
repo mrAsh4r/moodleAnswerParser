@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Moodle Question Parser
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/
 // @version      1.0
 // @description  Parse questions and answers on Moodle pages
 // @author       Roman
